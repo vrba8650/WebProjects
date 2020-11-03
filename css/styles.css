@@ -3283,7 +3283,7 @@ input[type="button"].btn-block {
 }
 
 .dropdown-menu {
-  position: relative;
+  position: absolute;
   top: 100%;
   right: 0;
   z-index: 1000;
